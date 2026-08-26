@@ -1,0 +1,29 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+expense_manager
+release/
+build/
+bin/
+obj/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Generated runtime data
+exports/
+
+# Local logs
+*.log
